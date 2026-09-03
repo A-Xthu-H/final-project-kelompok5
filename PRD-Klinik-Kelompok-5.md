@@ -7,7 +7,7 @@
 | **Jenis Dokumen** | PRD (Product Requirements Document) |
 | **Mata Kuliah** | PAW (Pengembangan Aplikasi Web) — Final Project |
 | **Kelompok** | Kelompok 5 |
-| **Repositori** | github.com/A-Xthu-H/final-project-kel5 |
+| **Repositori** | github.com/A-Xthu-H/final-project-kelompok5.git |
 | **Drive** | [Link Drive](https://drive.google.com/drive/folders/1zuP4EaB6fLQCLcg8ChGYcPbLfsKTOpul?usp=sharing) |
 | **Versi Dokumen** | 1.0 |
 | **Status** | Draft untuk review tim |
